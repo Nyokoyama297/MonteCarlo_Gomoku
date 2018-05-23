@@ -1,0 +1,15 @@
+﻿  ConsoleApplication1.cpp
+c:\users\naoyuki\documents\github\montecarlo_gomoku\consoleapplication1\consoleapplication1\board.h(6): warning C4067: プリプロセッサ ディレクティブの後に余分な文字がありました - 改行が必要です
+c:\users\naoyuki\documents\github\montecarlo_gomoku\consoleapplication1\consoleapplication1\board.h(558): warning C4244: '初期化中': 'time_t' から 'unsigned int' への変換です。データが失われる可能性があります。
+c:\users\naoyuki\documents\github\montecarlo_gomoku\consoleapplication1\consoleapplication1\board.h(190): warning C4715: 'Board::search_horizontal': 値を返さないコントロール パスがあります。
+c:\users\naoyuki\documents\github\montecarlo_gomoku\consoleapplication1\consoleapplication1\board.h(256): warning C4715: 'Board::search_slanting_rightToLeft': 値を返さないコントロール パスがあります。
+c:\users\naoyuki\documents\github\montecarlo_gomoku\consoleapplication1\consoleapplication1\board.h(234): warning C4715: 'Board::search_slanting_leftToRight': 値を返さないコントロール パスがあります。
+c:\users\naoyuki\documents\github\montecarlo_gomoku\consoleapplication1\consoleapplication1\board.h(212): warning C4715: 'Board::search_vertical': 値を返さないコントロール パスがあります。
+c:\users\naoyuki\documents\github\montecarlo_gomoku\consoleapplication1\consoleapplication1\board.h(377): warning C4715: 'Board::Innersearch_horizontal': 値を返さないコントロール パスがあります。
+c:\users\naoyuki\documents\github\montecarlo_gomoku\consoleapplication1\consoleapplication1\board.h(399): warning C4715: 'Board::Innersearch_vertical': 値を返さないコントロール パスがあります。
+c:\users\naoyuki\documents\github\montecarlo_gomoku\consoleapplication1\consoleapplication1\board.h(354): warning C4715: 'Board::winning': 値を返さないコントロール パスがあります。
+c:\users\naoyuki\documents\github\montecarlo_gomoku\consoleapplication1\consoleapplication1\board.h(421): warning C4715: 'Board::Innersearch_slanting_leftToRight': 値を返さないコントロール パスがあります。
+c:\users\naoyuki\documents\github\montecarlo_gomoku\consoleapplication1\consoleapplication1\board.h(443): warning C4715: 'Board::Innersearch_slanting_rightToLeft': 値を返さないコントロール パスがあります。
+c:\users\naoyuki\documents\github\montecarlo_gomoku\consoleapplication1\consoleapplication1\board.h(541): warning C4715: 'Board::innerWinning': 値を返さないコントロール パスがあります。
+c:\users\naoyuki\documents\github\montecarlo_gomoku\consoleapplication1\consoleapplication1\board.h(612): warning C4715: 'Board::playout': 値を返さないコントロール パスがあります。
+  ConsoleApplication1.vcxproj -> C:\Users\Naoyuki\Documents\GitHub\MonteCarlo_Gomoku\ConsoleApplication1\Debug\ConsoleApplication1.exe
